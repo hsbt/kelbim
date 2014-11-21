@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "aws-sdk", ">= 1.49.0"
   spec.add_dependency "uuid"
-  spec.add_dependency "rspec", "~> 3.1.0"
+  spec.add_dependency "rspec", "~> 2.99.0"
   spec.add_dependency "json"
   spec.add_dependency "term-ansicolor"
   spec.add_development_dependency "bundler", "~> 1.3"
